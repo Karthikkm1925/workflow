@@ -1,0 +1,4 @@
+ 
+dev: this is conflict file 
+features : This is conflict file 
+ 
