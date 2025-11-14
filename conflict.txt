@@ -1,1 +1,4 @@
-dev: this is conflict file
+ 
+dev: this is conflict file 
+features : This is conflict file 
+ 
